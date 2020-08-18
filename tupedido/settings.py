@@ -25,7 +25,7 @@ SECRET_KEY = 'q!qhynm9(nnc7ud5m%xuxf=x_a7@*vuz1*x4eab*(!h&)f$ps5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['tupedido-app.herokuapp.com']
 
 
 # Application definition
@@ -87,12 +87,12 @@ WSGI_APPLICATION = 'tupedido.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases
 
-#DATABASES = {
+# DATABASES = {
 #    'default': {
 #        'ENGINE': 'django.db.backends.sqlite3',
 #        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
 #    }
-#}
+# }
 
 DATABASES = {
     'default': {
