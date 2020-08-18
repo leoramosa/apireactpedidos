@@ -30,8 +30,6 @@ lazy-object-proxy==1.4.3
 lxml==4.5.1
 MarkupSafe==1.1.1
 mccabe==0.6.1
-mysql-client==0.0.1
-mysqlclient @ file:///D:/codigo_tecsup/semana_14_virtual/new_ecommerce/ecommerce/mysqlclient-1.4.4-cp38-cp38-win32.whl
 parsel==1.6.0
 Pillow==7.2.0
 Protego==0.1.16
